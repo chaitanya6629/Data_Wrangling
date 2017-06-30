@@ -1,0 +1,2 @@
+I have chosen Houston,TX area.
+Data (.osm) available at: https://mapzen.com/data/metro-extracts/metro/houston_texas/
